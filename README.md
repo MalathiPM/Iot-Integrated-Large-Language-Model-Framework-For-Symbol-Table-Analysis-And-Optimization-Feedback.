@@ -11,7 +11,7 @@ An AI-based symbol table optimization system that analyses variables and generat
 - Python 3.10+, Flask, requests
 - OpenAI API key (or local LLM)
 
-### Backend (5 min)
+### Backend
 - pip install -r requirements.txt
 - python app.py
 - run the ESP 32 Web server
